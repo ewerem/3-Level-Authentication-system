@@ -1,0 +1,32 @@
+#navigate{
+	background: white;
+	border-bottom:2px solid purple;
+}
+#mynav{
+	color:white;
+	font-size:17px;
+}
+#mynav2{
+	color:purple;
+	font-size:14px;
+	border:1px dashed purple;
+	border-radius: 50px;
+	border-bottom: 0px solid black !important;
+	
+}
+#mynav2:hover{
+	border:0px;
+	background: purple;
+	border-radius: 50px;
+	color:white;
+}
+
+#myn2{
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+#para{
+	background: rgba(50, 0, 50, 0.5) !important;
+	height: auto;
+}
